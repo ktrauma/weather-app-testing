@@ -30,14 +30,14 @@ a {
   text-decoration: none;
 }
 
-.weather-app {
+.weather-app-testing {
   max-width: 600px;
   margin: 30px auto;
   padding: 20px;
   border: 1px solid #dadce0;
   border-radius: 5px;
 }
-.weather-app-wrapper {
+.weather-app-testing-wrapper {
   max-width: 600px;
   margin: 30px auto;
 }
